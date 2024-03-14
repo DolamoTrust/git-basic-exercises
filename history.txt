@@ -1,0 +1,82 @@
+    1  whoami
+    2  echo $SHELL
+    3  chsh -s /bin/bash
+    4  echo $shell
+    5  echo $SHELL
+    6  CD
+    7  cd
+    8  nelle@localhost $~
+    9  ls
+   10  nelle@localhost
+   11  nelle@localhost $
+   12  ls
+   13  mkdir test
+   14  cd test
+   15  ls
+   16  touch test.txt
+   17  test.txt .code
+   18  code test.txt
+   19  rm tets.txt
+   20  rm -r test.txt
+   21  ls
+   22  cd .
+   23  ls
+   24  cd ...
+   25  cd
+   26  ls
+   27  sudo apt update
+   28  sudo apt upgrade
+   29  sudo add-apt-repository ppa:git-core/ppa
+   30  git version
+   31  apt install git
+   32  yes
+   33  sudo apt-get install ubuntu-restricted-extras
+   34  su root
+   35  sudo su
+   36  git --version
+   37  termux-setuo-storage
+   38  termux-setup-storage
+   39  ls
+   40  cd git-basic-exercises
+   41  ls
+   42  git log
+   43  nanoREADME.md
+   44  nano README.md
+   45  ls
+   46  nano README.md
+   47  cat README.md
+   48  git status
+   49  git add .
+   50  git commit -m "second commit"
+   51  git push
+   52  git log
+   53  nano README.md
+   54  ls
+   55  git add .
+   56  git commit -m "third commit"
+   57  git push
+   58  git log
+   59  git checkout 238280e3f0cb8c4ae38e1cd9a56b2a9d685f3614
+   60  cat README.md
+   61  git checkout main
+   62  cat README.md
+   63  git branch
+   64  git branch milkshake-flavours
+   65  git branch
+   66  git branch milkshake-flavours
+   67  ls
+   68  git branch
+   69  git checkout milkshake-flavours
+   70  git branch
+   71  nano milkshakes.md
+   72  ls
+   73  git status
+   74  git add .
+   75  git commit -m "added initial flavours"
+   76  git log
+   77  git checkout main
+   78  ls
+   79  git branch history
+   80  git log
+   81  git branch
+   82  history > history.txt
